@@ -1,0 +1,15 @@
+body {margin:0}
+
+.iconBar {
+  width: 90px;
+  background-color: #303030;
+}
+
+.iconBar a {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  transition: all 0.5s ease;
+  color: white;
+  font-size: 35px;
+}
